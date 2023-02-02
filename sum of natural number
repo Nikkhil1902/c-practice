@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+int main(){
+    int a,sum=0;
+    for(int i=1; i<=10;i++){
+        sum=sum+i;
+    cout<<i<<endl;
+}
+cout<<"the sum of n term :"<<sum<<endl;
+}
